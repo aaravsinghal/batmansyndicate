@@ -136,7 +136,7 @@ export default function WayneEnterprises() {
 
             <div>
               <div className="flex justify-between text-xs text-gray-400 font-bold mb-1">
-                <span>Wayne Foundation — Gotham Rebuilding</span>
+                <span>Wayne Foundation - Gotham Rebuilding</span>
                 <span>${charityBudget}M</span>
               </div>
               <div className="w-full bg-gray-100 border border-gray-200 h-2 rounded overflow-hidden">
@@ -160,7 +160,7 @@ export default function WayneEnterprises() {
               <div>
                 <p className="font-bold text-gray-800 text-xs uppercase">APPLIED SCIENCES RESERVE</p>
                 <p className="text-xs text-gray-500 mt-1">Off-books: ${secretBudget}M</p>
-                <p className="text-xs text-gray-400 italic">"I never ask." — Lucius Fox</p>
+                <p className="text-xs text-gray-400 italic">"I never ask." - Lucius Fox</p>
               </div>
               <button
                 onClick={divertFunds}
@@ -184,7 +184,7 @@ export default function WayneEnterprises() {
         <div className="bg-white border border-gray-200 rounded p-5">
           <div className="flex items-center gap-2 border-b border-gray-100 pb-3 mb-4">
             <Calendar className="w-4 h-4 text-gray-700" />
-            <h2 className="text-gray-900 font-bold text-xs uppercase">BRUCE WAYNE — TODAY</h2>
+            <h2 className="text-gray-900 font-bold text-xs uppercase">BRUCE WAYNE - TODAY</h2>
           </div>
 
           <form onSubmit={handleAddMeeting} className="grid grid-cols-3 gap-2 mb-4">

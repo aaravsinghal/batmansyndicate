@@ -80,7 +80,7 @@ export default function FakeCover(props) {
            The drunk billionare who burnt down his own house on his birthday. Btw 1st of the trilogy for hint and see the top right corner of the website for more hints. Iykyk
           </p>
           <div className="border-l-2 border-gray-200 pl-4 py-1 text-xs text-gray-400 italic">
-            "Im whatever gotham needs me to be" — Great Words
+            "Im whatever gotham needs me to be" - Great Words
           </div>
         </div>
 
